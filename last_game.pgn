@@ -1,0 +1,10 @@
+[Event "Student Chess Tournament"]
+[Site "?"]
+[Date "2025.12.13"]
+[Round "?"]
+[White "MLBot"]
+[Black "RandomBot"]
+[Result "1-0"]
+[TimeControl "180+2"]
+
+1. Nh3 c6 2. Ng5 d5 3. Rg1 c5 4. Rh1 Nh6 5. Rg1 f5 6. Rh1 Qd6 7. Nc3 Na6 8. Nf3 Qc7 9. Nxd5 Qd8 10. e4 Qd6 11. Bb5+ Bd7 12. Bxd7+ Kxd7 13. Qe2 Ng4 14. Qb5+ Ke6 15. Qxb7 Nh6 16. Qxa8 Qb8 17. Ng5+ Kd7 18. Nf6+ Kd8 19. Nf7+ Kc7 20. Qxb8+ Kc6 21. Nd8# 1-0
